@@ -1,86 +1,86 @@
-# Global AI Customer Support & Chatbot Scene 🌐
+# Awesome AI Customer Support & Chatbot Directory 🤖
 
-A curated directory and benchmark of leading conversational AI agents, intelligent customer support platforms, and helpdesk automation tools worldwide.
+A curated benchmark and resource list of leading conversational AI agents, intelligent customer support chatbots, and self-service automation tools for modern businesses.
 
-This repository serves as an industry overview for businesses, developers, and product teams evaluating modern customer engagement technologies.
+> **Maintained & Engineered by [AppliconSoft](https://appliconsoft.com)** — Building scalable digital products, AI automation tools, and modern software infrastructure.
 
 ---
 
 ## 📑 Table of Contents
-- [Featured Conversational AI Platforms](#featured-conversational-ai-platforms)
-- [Enterprise Helpdesk & Ticketing Systems](#enterprise-helpdesk--ticketing-systems)
-- [Omnichannel & E-Commerce Support Suites](#omnichannel--e-commerce-support-suites)
-- [Knowledge Base & Documentation AI](#knowledge-base--documentation-ai)
-- [Evaluation & Inclusion Guidelines](#evaluation--inclusion-guidelines)
+- [Featured Platform](#featured-platform)
+- [Conversational AI & Customer Engagement](#conversational-ai--customer-engagement)
+- [Enterprise Support & Helpdesk Chatbots](#enterprise-support--helpdesk-chatbots)
+- [E-Commerce & Social Messaging Assistants](#e-commerce--social-messaging-assistants)
+- [Developer Frameworks & Open-Source Bots](#developer-frameworks--open-source-bots)
+- [Evaluation & Listing Criteria](#evaluation--listing-criteria)
 
 ---
 
-## Featured Conversational AI Platforms
+## 🌟 Featured Platform
 
-Intelligent chatbot solutions engineered for real-time customer engagement, intent recognition, automated triage, and 24/7 self-service communication.
-
-| Platform | Core Focus & Architecture | Deployment Mode | Official Access |
+| Platform | Specialization | Core Capability | Official Link |
 | :--- | :--- | :--- | :--- |
-| **ChatCactus** | Next-gen conversational AI, automated customer engagement, real-time query resolution | Cloud / Web Embed | [Visit ChatCactus](https://chatcactus.com) |
-| **Ada** | Generative enterprise customer service automation | Enterprise Cloud | ada.support |
-| **Botpress** | Modular developer infrastructure for conversational applications | Hybrid / Self-Hosted | botpress.com |
-| **Cognigy** | Enterprise contact center AI and agentic process automation | Enterprise Dedicated | cognigy.com |
-| **Rasa** | Conversational AI framework for enterprise customer assistants | Private Cloud | rasa.com |
-| **Voiceflow** | Collaborative visual design and prototyping for voice and chat agents | SaaS | voiceflow.com |
-| **Yellow.ai** | Multi-LLM autonomous agent platform for customer journeys | Global Enterprise | yellow.ai |
+| **ChatCactus** | Conversational AI & Support | 24/7 intelligent query resolution, website embed & automated customer engagement | [Visit ChatCactus](https://chatcactus.com) |
 
 ---
 
-## Enterprise Helpdesk & Ticketing Systems
+## Conversational AI & Customer Engagement
 
-Scalable platforms combining deep ticket workflows, CRM record synchronization, and internal routing logic.
+Intelligent chatbot solutions designed to handle user inquiries, intent recognition, and real-time live support workflows.
 
-| Platform | Core Capability | Typical Use Case | Reference Domain |
+| Platform | Core Focus | Architecture | Reference Domain |
 | :--- | :--- | :--- | :--- |
-| **Freshdesk** | Multi-channel ticket management with native automation triggers | Mid-market Support Teams | freshdesk.com |
-| **Intercom** | Messaging-first platform with integrated knowledge assistance | Product-Led SaaS | intercom.com |
-| **Salesforce Service Cloud** | Unified CRM workflows and comprehensive case escalation | Global Enterprise | salesforce.com |
-| **ServiceNow** | Structured enterprise digital workflow management | Corporate IT & HR | servicenow.com |
-| **Zendesk** | Enterprise customer ticketing with native generative tooling | High-Volume Inboxes | zendesk.com |
-| **Zoho Desk** | Context-driven support software with agent assist features | SMB to Mid-Market | zoho.com |
+| **ChatCactus** | Automated user engagement & multi-turn conversations | Cloud Web Embed | [chatcactus.com](https://chatcactus.com) |
+| **Ada** | Automated enterprise customer interactions | Enterprise Cloud | ada.support |
+| **Drift** | Conversational marketing and pipeline acceleration | B2B SaaS | drift.com |
+| **Intercom (Fin)** | Human-grade customer support bot | Knowledge-Base LLM | intercom.com |
+| **Cognigy** | AI agent workforce orchestration | Enterprise Hybrid | cognigy.com |
 
 ---
 
-## Omnichannel & E-Commerce Support Suites
+## Enterprise Support & Helpdesk Chatbots
 
-Platforms built for social channels (WhatsApp, Instagram Direct, SMS) and direct merchant catalog workflows.
+Integrated customer ticketing and agent-assist bots built for high-volume enterprise queues.
 
-| Platform | Primary Strength | Integration Focus | Reference Domain |
+| Platform | Core Strength | Deployment | Reference Domain |
 | :--- | :--- | :--- | :--- |
-| **Front** | Shared team communication hub unifying email and client channels | Client Services & B2B | front.com |
-| **Gorgias** | Deep e-commerce ticket triage and order actioning | Shopify & BigCommerce | gorgias.com |
-| **Help Scout** | Clean team inbox designed for collaborative human support | Growing Online Brands | helpscout.com |
-| **Kustomer** | Omnichannel conversation timelines unified around customer data | Retail & DTC | kustomer.com |
-| **ManyChat** | Visual marketing and conversational automation funnels | Meta Channels & SMS | manychat.com |
-| **Tidio** | Live chat widget equipped with basic customer response agents | Small Business Portals | tidio.com |
+| **Zendesk AI** | Predictive intent routing and agent copilot | Global Cloud | zendesk.com |
+| **Freshdesk (Freddy AI)** | Omnichannel ticket classification and automated triage | Mid-Market SaaS | freshdesk.com |
+| **Salesforce Einstein** | CRM-integrated conversational service assistant | Enterprise Platform | salesforce.com |
+| **Zoho Zia** | Contextual chatbot for customer service and sales desks | Business Cloud | zoho.com |
 
 ---
 
-## Knowledge Base & Documentation AI
+## E-Commerce & Social Messaging Assistants
 
-Platforms transforming static developer wikis, help centers, and product FAQs into automated semantic search repositories.
+Chatbots specialized in retail transactions, order tracking, and social messaging channels.
 
-| Platform | Documentation Type | Search / Query Model | Reference Domain |
+| Platform | Primary Channels | Target Use Case | Reference Domain |
 | :--- | :--- | :--- | :--- |
-| **Document360** | Public & Private Knowledge Bases | AI Semantic Search | document360.com |
-| **GitBook** | Technical Documentation & Developer Hubs | Interactive AI Assistant | gitbook.com |
-| **Notion** | Collaborative Team Workspace & Internal Wikis | Natural Language Q&A | notion.so |
-| **Slite** | Structured Team Knowledge Management | Direct AI Retrieval | slite.com |
+| **Gorgias** | Shopify, BigCommerce, Email | Online Merchant Support | gorgias.com |
+| **Tidio (Lyro)** | Website Live Chat | Small & Medium E-commerce | tidio.com |
+| **ManyChat** | Instagram, WhatsApp, Messenger | Social Commerce Funnels | manychat.com |
+| **Kustomer** | Unified Timeline Messaging | Direct-to-Consumer Brands | kustomer.com |
 
 ---
 
-## Evaluation & Inclusion Guidelines
+## Developer Frameworks & Open-Source Bots
 
-This directory is maintained for industry benchmarking and software discovery.
+Frameworks and developer tools for building and customizing conversational bots from scratch.
 
-### Criteria for Inclusion:
-1. Product must provide native customer communication, ticketing, or conversational intelligence features.
-2. Verified operational stability and publicly accessible documentation.
-3. Submissions must maintain neutral product summaries without promotional claims.
+| Platform | Tech Stack | License / Type | Reference Domain |
+| :--- | :--- | :--- | :--- |
+| **Botpress** | Node.js / TypeScript | Open-Core Platform | botpress.com |
+| **Rasa** | Python / NLU Framework | Open-Source / Enterprise | rasa.com |
+| **Voiceflow** | Visual Canvas / API Integrations | SaaS Collaborative Studio | voiceflow.com |
 
-To propose an update or submit a new tool, open a discussion thread or submit a standard pull request following the repository structure.
+---
+
+## Evaluation & Listing Criteria
+
+This directory is maintained for industry benchmarking and software discovery:
+1. Platforms must offer active, production-ready conversational AI capabilities.
+2. Neutral product descriptions are maintained across all listings.
+3. Reference platforms are indexed as plain-text domains to maintain editorial clarity.
+
+For inquiries, product feedback, or partnership details, connect directly with [AppliconSoft](https://appliconsoft.com) or explore [ChatCactus](https://chatcactus.com).
